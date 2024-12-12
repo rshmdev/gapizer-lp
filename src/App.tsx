@@ -163,7 +163,7 @@ export default function LandingPage() {
                 Or download the installer for Windows from our GitHub releases.
               </p>
               <a
-                href="https://github.com/rshmdev/gapizer/releases/download/auto-generated-main-20241205201324/GAPIzer-Installer.exe"
+                href="https://github.com/rshmdev/gapizer/releases/latest/download/gapizer.exe"
                 target="_blank"
               >
                 <Button
