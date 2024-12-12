@@ -151,7 +151,7 @@ export default function LandingPage() {
             </h2>
             <div className="max-w-[700px] mx-auto space-y-4">
               <p className="text-zinc-200">
-                Install GAPIzer globally using npm:
+                Install GAPIzer globally using npm: 
               </p>
               <MotionDiv
                 whileHover={{ scale: 1.02 }}
